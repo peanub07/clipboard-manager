@@ -1,6 +1,6 @@
 {
   "name": "clipboard-manager",
-  "version": "0.5.0",
+  "version": "0.0.0",
   "description": "An open-source clipboard history Browser extension with handy text utilities.",
   "license": "MIT",
   "private": true,
