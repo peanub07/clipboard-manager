@@ -1,11 +1,11 @@
 {
   "extensionDescription": {
     "description": "Extension description",
-    "message": "Chrome extension boilerplate developed with Vite, React and Typescript"
+    "message": "An open-source clipboard history Browser extension with handy text utilities."
   },
   "extensionName": {
     "description": "Extension name",
-    "message": "Chrome extension boilerplate"
+    "message": "Clipboard Manager"
   },
   "toggleTheme": {
     "message": "Toggle theme"

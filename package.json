@@ -1,7 +1,7 @@
 {
-  "name": "chrome-extension-boilerplate-react-vite",
+  "name": "clipboard-manager",
   "version": "0.5.0",
-  "description": "chrome extension boilerplate",
+  "description": "An open-source clipboard history Browser extension with handy text utilities.",
   "license": "MIT",
   "private": true,
   "sideEffects": false,
